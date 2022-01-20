@@ -1,0 +1,156 @@
+.main{
+    width: 1440px;
+    height: 825px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    background: url('../img/maxresdefault2.jpg') no-repeat;
+}
+
+.shop{
+    position: absolute;
+    top: 93%;
+    left: 5%;
+}
+.shop button{
+    width: 100px;
+    height: 32px;
+    color: white;
+    background: #000000;
+    border-radius: 3px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 20px;
+
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.shop button:hover{
+    cursor: grab;
+}
+.skills{
+    position: absolute;
+    top: 93%;
+    right: 5%;
+}
+.skills button{
+    width: 100px;
+    height: 32px;
+    color: white;
+    background: #000000;
+    border-radius: 3px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 20px;
+
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.skills button:hover{
+    cursor: grab;
+}
+.battleWolf{
+    position: absolute;
+    top: 43%;
+    left: 10%;
+}
+.battleWolf button{
+    width: 120px;
+    height: 30px;
+    color: white;
+    background: #000000;
+    border-radius: 3px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 20px;
+
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.battleWolf button:hover{
+    cursor: grab;
+}
+
+.battleImlerih{
+    position: absolute;
+    top: 5%;
+    left: 28%;
+}
+.battleImlerih button{
+    width: 120px;
+    height: 30px;
+    color: white;
+    background: #000000;
+    border-radius: 3px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 20px;
+
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.battleImlerih button:hover{
+    cursor: grab;
+}
+.battleKarantir{
+    position: absolute;
+    top: 2%;
+    right: 22%;
+}
+.battleKarantir button{
+    width: 130px;
+    height: 30px;
+    color: white;
+    background: #000000;
+    border-radius: 3px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 20px;
+
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.battleKarantir button:hover{
+    cursor: grab;
+}
+.battleEredin{
+    position: absolute;
+    top: 1%;
+    left: 50%;
+}
+.battleEredin button{
+    width: 130px;
+    height: 30px;
+    color: white;
+    background: #000000;
+    border-radius: 3px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 20px;
+
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.battleEredin button:hover{
+    cursor: grab;
+}
