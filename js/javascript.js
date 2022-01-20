@@ -68,7 +68,7 @@ function battleWolf(){
     if (i>j){
         alert ('Удачи');
         alert ('Поздравляем! Ведьмак победил');
-        return wolf.health=0, witcher.coin+=wolf.coin, wolf.coin=0;
+        return wolf.health=0, witcher.coin+=wolf.coin;
     }
     else{
         alert ("Удачи!");
@@ -94,7 +94,7 @@ function battleImlerih(){
     if (i>j){
         alert ('Удачи');
         alert ('Поздравляем! Ведьмак победил');
-        return imlerih.health=0, witcher.coin+=imlerih.coin, imlerih.coin=0;
+        return imlerih.health=0, witcher.coin+=imlerih.coin;
     }
     else{
         alert ("Удачи!");
@@ -119,7 +119,7 @@ function battleKarantir(){
     if (i>j){
         alert ('Удачи');
         alert ('Поздравляем! Ведьмак победил');
-        return karantir.health=0, witcher.coin+=karantir.coin, karantir.coin=0;
+        return karantir.health=0, witcher.coin+=karantir.coin;
     }
     else{
         alert ("Удачи!");
@@ -143,7 +143,7 @@ function battleEredin(){
     if (i>j){
         alert ('Удачи');
         alert ('Поздравляем! Ведьмак победил');
-        return eredin.health=0, witcher.coin+=eredin.coin, eredin.coin=0;
+        return eredin.health=0, witcher.coin+=eredin.coin;
     }
     else{
         alert ("Удачи!");
